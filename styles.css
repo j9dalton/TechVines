@@ -1,3 +1,4 @@
-.body {
-  background-image: image("/img/techvines-background-offical.png");
+body {
+  background-image: url(/TechVines/img/techvines-background-offical.png);
+  background-size: 100%;
 }
